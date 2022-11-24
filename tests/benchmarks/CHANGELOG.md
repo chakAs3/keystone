@@ -1,5 +1,12 @@
 # @keystonejs/benchmarks
 
+## 0.0.5
+
+### Patch Changes
+
+- Updated dependencies [[`40dec6087`](https://github.com/keystonejs/keystone/commit/40dec6087a0ae818384746734b601d83c7f1c1e3), [`94e12b408`](https://github.com/keystonejs/keystone/commit/94e12b40872cd5814fe6d980b68070906f0a9307), [`94e12b408`](https://github.com/keystonejs/keystone/commit/94e12b40872cd5814fe6d980b68070906f0a9307), [`5989672e3`](https://github.com/keystonejs/keystone/commit/5989672e3b7d1fc844a4f0a596f8e449abef1351)]:
+  - @keystone-6/core@4.0.0
+
 ## 0.0.4
 
 ### Patch Changes

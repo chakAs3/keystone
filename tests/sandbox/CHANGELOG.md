@@ -1,5 +1,14 @@
 # @keystone-6/sandbox
 
+## 0.0.7
+
+### Patch Changes
+
+- Updated dependencies [[`628f58872`](https://github.com/keystonejs/keystone/commit/628f58872ab8b71249307639922e5a4796fc42d2), [`40dec6087`](https://github.com/keystonejs/keystone/commit/40dec6087a0ae818384746734b601d83c7f1c1e3), [`94e12b408`](https://github.com/keystonejs/keystone/commit/94e12b40872cd5814fe6d980b68070906f0a9307), [`94e12b408`](https://github.com/keystonejs/keystone/commit/94e12b40872cd5814fe6d980b68070906f0a9307), [`57e9527c3`](https://github.com/keystonejs/keystone/commit/57e9527c39771ce8bbd0bed960fddfe6b3ee01a2), [`57e9527c3`](https://github.com/keystonejs/keystone/commit/57e9527c39771ce8bbd0bed960fddfe6b3ee01a2), [`5989672e3`](https://github.com/keystonejs/keystone/commit/5989672e3b7d1fc844a4f0a596f8e449abef1351)]:
+  - @keystone-6/auth@6.0.0
+  - @keystone-6/core@4.0.0
+  - @keystone-6/fields-document@6.0.0
+
 ## 0.0.6
 
 ### Patch Changes

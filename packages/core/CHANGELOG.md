@@ -1,5 +1,21 @@
 # @keystone-6/core
 
+## 4.0.0
+
+### Major Changes
+
+- [#8073](https://github.com/keystonejs/keystone/pull/8073) [`94e12b408`](https://github.com/keystonejs/keystone/commit/94e12b40872cd5814fe6d980b68070906f0a9307) Thanks [@borisno2](https://github.com/borisno2)! - Removes `context.startSession` and `context.endSession` - replace with `context.sessionStrategy.start` and `context.sessionStrategy.end` as required
+
+- [#8073](https://github.com/keystonejs/keystone/pull/8073) [`94e12b408`](https://github.com/keystonejs/keystone/commit/94e12b40872cd5814fe6d980b68070906f0a9307) Thanks [@borisno2](https://github.com/borisno2)! - Removes `createContext`, `createRequestContext` - replace any relevant usage with `context.sudo()`, `context.withSession()` or `context.withRequest()`
+
+### Minor Changes
+
+- [#8061](https://github.com/keystonejs/keystone/pull/8061) [`5989672e3`](https://github.com/keystonejs/keystone/commit/5989672e3b7d1fc844a4f0a596f8e449abef1351) Thanks [@AliceRossa](https://github.com/AliceRossa)! - Next.js 13 Upgrade
+
+### Patch Changes
+
+- [#8122](https://github.com/keystonejs/keystone/pull/8122) [`40dec6087`](https://github.com/keystonejs/keystone/commit/40dec6087a0ae818384746734b601d83c7f1c1e3) Thanks [@dcousens](https://github.com/dcousens)! - Fixes `access.filter.*` passing `listKey: undefined`
+
 ## 3.1.2
 
 ### Patch Changes

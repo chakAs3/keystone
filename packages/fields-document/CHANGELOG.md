@@ -1,5 +1,18 @@
 # @keystone-6/fields-document
 
+## 6.0.0
+
+### Minor Changes
+
+- [#7936](https://github.com/keystonejs/keystone/pull/7936) [`57e9527c3`](https://github.com/keystonejs/keystone/commit/57e9527c39771ce8bbd0bed960fddfe6b3ee01a2) Thanks [@emmatown](https://github.com/emmatown)! - Adds a new `integer` component field type
+
+- [#7936](https://github.com/keystonejs/keystone/pull/7936) [`57e9527c3`](https://github.com/keystonejs/keystone/commit/57e9527c39771ce8bbd0bed960fddfe6b3ee01a2) Thanks [@emmatown](https://github.com/emmatown)! - Adds a new `structure` field type, a composable JSON data structure with a powerful GraphQL API
+
+### Patch Changes
+
+- Updated dependencies [[`40dec6087`](https://github.com/keystonejs/keystone/commit/40dec6087a0ae818384746734b601d83c7f1c1e3), [`94e12b408`](https://github.com/keystonejs/keystone/commit/94e12b40872cd5814fe6d980b68070906f0a9307), [`94e12b408`](https://github.com/keystonejs/keystone/commit/94e12b40872cd5814fe6d980b68070906f0a9307), [`5989672e3`](https://github.com/keystonejs/keystone/commit/5989672e3b7d1fc844a4f0a596f8e449abef1351)]:
+  - @keystone-6/core@4.0.0
+
 ## 5.0.2
 
 ### Patch Changes
